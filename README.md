@@ -155,8 +155,3 @@ The tool generates contextual replies based on the categorization and schedules 
 - **OpenAI API Errors**: Ensure your OpenAI API key is valid and you have sufficient quota.
 - **Redis Connection Issues**: Verify your Redis server configuration and credentials in the `.env` file.
 
-## Contact Information
-
-If you have any questions or would like to provide feedback on my project, please don’t hesitate to get in touch at [tejasnayak.tech](https://tejasnayak.tech).
-
-I appreciate your time in reviewing my work and look forward to your feedback!
